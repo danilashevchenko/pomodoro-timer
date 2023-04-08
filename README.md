@@ -21,7 +21,6 @@
 ---
 **Pomodoro** — это настраиваемый таймер, который работает на всех видах устройств. Цель этого приложения — помочь пользователю сосредоточиться на задачах во время работы. Приложение основано на технике помидора, которая представляет собой метод управления временем, разработанный Франческо Чирилло.
 
-![](https://github.com/danilashevchenko/pomodoro-timer/blob/main/pomodoro.png?raw=true)
 
 ### **Технологии:**
 ---
@@ -30,3 +29,18 @@
 + **HTML 5**
 + **CSS 3**
 
+### **Результат**
+
+---
+
+
+![](https://github.com/danilashevchenko/pomodoro-timer/blob/main/cover_app.png?raw=true)
+
+<div align="center">
+<a href="" class="gradient-button" style="text-decoration: none;
+display: inline-block;color: white;padding: 20px 30px; margin: 10px 20px;
+border-radius: 10px;font-family: 'Montserrat', sans-serif;
+text-transform: uppercase;letter-spacing: 2px;background-image: linear-gradient(to right, #9EEFE1 -20%, #4830F0 51%, #9EEFE1 100%);
+background-size: 200% auto; box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+transition: .5s;;">Посмотреть Таймер</a>
+</div>
