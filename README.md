@@ -37,5 +37,5 @@
 ![](https://github.com/danilashevchenko/pomodoro-timer/blob/main/cover_app.png?raw=true)
 
 <div align="center">
-<a href="" class="gradient-button" >Посмотреть Таймер</a>
+<a href="https://cw00361.tmweb.ru/pomodoro" class="gradient-button">Посмотреть Таймер</a>
 </div>
